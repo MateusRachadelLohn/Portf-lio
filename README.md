@@ -7,7 +7,7 @@ Meu nome é Mateus Rachadel Lohn, tenho 20 anos. Sou desenvolvedor Fullstack e B
 
 - 🎮 **Jogo da Forca (C++)**  
   Jogo desenvolvido em C++ com foco em lógica de programação, utilizando estruturas condicionais, laços de repetição e validação de entrada.  
-  👉 [Ver código](jogo-da-forca)
+  👉 [Jogo da forca](jogo-da-forca)
 
 ### Desenvolvimento de aplicações com integração eficiente a bancos de dados SQL
 - [Porgrama de Cadastro](logicaprogramaçao/CadastroAluno)
