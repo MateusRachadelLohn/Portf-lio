@@ -5,7 +5,7 @@
 - [Vetores](Fundamentos de ti/Vetores)
 ## Logica computacional
 
-- [Conceitos vistos if e Scanner](Logica Computacional/Conceitos vistos if e Scanner)
+- [Conceitos if e Scanner](Logica Computacional/Conceitos vistos if e Scanner)
 - [Estruturas de repetiçao](Logica Computacional/Estruturas de repetiçao)
 - [Loop](Logica Computacional/Loop)
 ## Autoria pessoal
